@@ -1,7 +1,7 @@
 # USB-Information
-Get USB information PID and VID.
-
 從磁碟代號中去找尋 USB PID 和 VID 資訊。
+
+Get USB information PID and VID.
 
 ## environment
 Visual Studio C++ 2019
