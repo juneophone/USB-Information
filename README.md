@@ -1,20 +1,24 @@
 # USB-Information
 Get USB information PID and VID.
-±qºÏºĞ¥N¸¹¤¤¥h§ä´M USB PID ©M VID ¸ê°T¡C
+
+å¾ç£ç¢Ÿä»£è™Ÿä¸­å»æ‰¾å°‹ USB PID å’Œ VID è³‡è¨Šã€‚
 
 ## environment
 Visual Studio C++ 2019
 
 ## usb_information.c
-·j´M©Ò¦³ºÏºĞ¥N¸¹«á¨ú±o USB all information.
+æœå°‹æ‰€æœ‰ç£ç¢Ÿä»£è™Ÿå¾Œå–å¾— USB all information.
+
 Get USB all information after searching all disk codes.
 
 ## usb_information_2.c
-¥HºÏºĞ¥N¸¹¬°·j´M key ¨ú±o USB all information.
+ä»¥ç£ç¢Ÿä»£è™Ÿç‚ºæœå°‹ key å–å¾— USB all information.
+
 Use the disk code as the search key to obtain USB all information.
 
 ## Visual Studio C++ 2019 Project property settings
-»İ­n¨Ï¥Î¥~³¡ "setupapi.lib" »İ­n³]©w±M®×Äİ©Ê¡C
+éœ€è¦ä½¿ç”¨å¤–éƒ¨ "setupapi.lib" éœ€è¦è¨­å®šå°ˆæ¡ˆå±¬æ€§ã€‚
+
 Need to use external "setupapi.lib" Need to set project properties.
 
 <table width="100%" align="center" border="0">    
